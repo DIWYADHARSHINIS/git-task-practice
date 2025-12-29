@@ -1,1 +1,2 @@
 This is my sample file for Git practice.
+Change made in feature branch.
